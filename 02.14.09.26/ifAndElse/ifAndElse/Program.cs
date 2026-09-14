@@ -25,7 +25,9 @@ namespace ifAndElse
             }
             else
             {
-                Console.WriteLine("tere, tundmatu! ERROR");
+                Console.WriteLine("tere tundmatu! liiga noor  ERROR");
+                Console.Beep();
+                Thread.Sleep(1000);
                 Console.Beep();
                 Thread.Sleep(1000);
                 Console.Beep();
