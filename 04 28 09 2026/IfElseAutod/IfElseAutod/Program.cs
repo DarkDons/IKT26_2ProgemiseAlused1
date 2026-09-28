@@ -16,7 +16,7 @@
 
             if (mark == "BMW")
             {
-                Console.WriteLine("Vali mudel (M1, M2, M3, M4, M5): ");
+                Console.WriteLine("Vali mudel (M2, M3, M4,): ");
                 mudel = Console.ReadLine();
 
                 if (mudel == "M2") Console.WriteLine("BMW M2.");
