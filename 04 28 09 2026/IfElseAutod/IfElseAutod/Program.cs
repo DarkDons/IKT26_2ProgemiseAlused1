@@ -1,4 +1,4 @@
-﻿namespace IfElseAutod
+namespace IfElseAutod
 {
     internal class Program
     {
@@ -22,7 +22,7 @@
                 if (mudel == "M2") Console.WriteLine("BMW M2.");
                 else if (mudel == "M4") Console.WriteLine("BMW M4.");
                 else Console.WriteLine("Tundmatu mudel.");
-            }
+            
             else if (mark == "Audi")
             {
                 Console.WriteLine("Valisid Audi.");
