@@ -32,9 +32,9 @@
             }
             catch
             {
-       
+                Console.WriteLine("number on liiga suur");
+        
             }
-   
         }
     }
-
+}
